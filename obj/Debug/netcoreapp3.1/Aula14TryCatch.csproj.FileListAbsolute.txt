@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula14TryCatch\obj\Debug\netcoreapp3.1\Aula14TryCatch.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula14TryCatch\obj\Debug\netcoreapp3.1\Aula14TryCatch.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula14TryCatch\obj\Debug\netcoreapp3.1\Aula14TryCatch.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula14TryCatch\obj\Debug\netcoreapp3.1\Aula14TryCatch.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula14TryCatch\bin\Debug\netcoreapp3.1\Aula14TryCatch.exe
+C:\Breno USA\Senai\Aula14TryCatch\bin\Debug\netcoreapp3.1\Aula14TryCatch.deps.json
+C:\Breno USA\Senai\Aula14TryCatch\bin\Debug\netcoreapp3.1\Aula14TryCatch.runtimeconfig.json
+C:\Breno USA\Senai\Aula14TryCatch\bin\Debug\netcoreapp3.1\Aula14TryCatch.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula14TryCatch\bin\Debug\netcoreapp3.1\Aula14TryCatch.dll
+C:\Breno USA\Senai\Aula14TryCatch\bin\Debug\netcoreapp3.1\Aula14TryCatch.pdb
+C:\Breno USA\Senai\Aula14TryCatch\obj\Debug\netcoreapp3.1\Aula14TryCatch.dll
+C:\Breno USA\Senai\Aula14TryCatch\obj\Debug\netcoreapp3.1\Aula14TryCatch.pdb
+C:\Breno USA\Senai\Aula14TryCatch\obj\Debug\netcoreapp3.1\Aula14TryCatch.genruntimeconfig.cache
