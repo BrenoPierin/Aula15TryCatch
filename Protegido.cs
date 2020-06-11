@@ -4,16 +4,10 @@ namespace Aula14TryCatch
 {
     public class Protegido
     {
-        public Protegido(bool permitir) 
-        {
-            this.permitir = permitir;
-               
-        }
-                private bool permitir {get; set;}
+        public bool permitir {get; set;}
 
         public void Autorizar(){
-            
-            do{
+        
 
             try{
 
@@ -22,9 +16,7 @@ namespace Aula14TryCatch
             }catch(Exception){
                 System.Console.WriteLine("Comando não encontrado!");
             }
-            }while(permitir){
-               permitir = true && false;
-            }
+            
         }
     }
 }
